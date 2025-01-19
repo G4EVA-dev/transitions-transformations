@@ -1,19 +1,17 @@
 {
-  "name": "devpostcopitlot",
-  "version": "1.0.0",
-  "main": "script.js",
+  "name": "metamorphosis-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "gsap": "^3.12.7"
+    "gsap": "^3.12.2"
   },
   "devDependencies": {
-    "vite": "^6.0.7"
+    "vite": "^4.4.0"
   }
 }
